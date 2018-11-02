@@ -1,0 +1,6 @@
+\\mi\dfs\users\LChang\Desktop\Assessments\Assessment 4\RefactoringDebugging\RefactoringDebugging\bin\Debug\RefactoringDebugging.exe.config
+\\mi\dfs\users\LChang\Desktop\Assessments\Assessment 4\RefactoringDebugging\RefactoringDebugging\bin\Debug\RefactoringDebugging.exe
+\\mi\dfs\users\LChang\Desktop\Assessments\Assessment 4\RefactoringDebugging\RefactoringDebugging\bin\Debug\RefactoringDebugging.pdb
+\\mi\dfs\users\LChang\Desktop\Assessments\Assessment 4\RefactoringDebugging\RefactoringDebugging\obj\Debug\RefactoringDebugging.csproj.CoreCompileInputs.cache
+\\mi\dfs\users\LChang\Desktop\Assessments\Assessment 4\RefactoringDebugging\RefactoringDebugging\obj\Debug\RefactoringDebugging.exe
+\\mi\dfs\users\LChang\Desktop\Assessments\Assessment 4\RefactoringDebugging\RefactoringDebugging\obj\Debug\RefactoringDebugging.pdb
